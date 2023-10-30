@@ -7,6 +7,7 @@
  * Author:      Kitestring Studio
  * Author URI:  https://kitestring.studio/
  * License:     GPL-2.0+
+ * GitHub Plugin URI: https://github.com/kitestring-studio/wp-revisions-column
  */
 
 class WP_Revisions_Column {
