@@ -3,7 +3,7 @@
  * Plugin Name: WP Revisions Column
  * Plugin URI:  https://github.com/kitestring-studio/wp-revisions-column
  * Description: Adds a revisions count column to the post editor list in the WordPress admin dashboard.
- * Version:     1.0
+ * Version:     1.0.1
  * Author:      Kitestring Studio
  * Author URI:  https://kitestring.studio/
  * License:     GPL-2.0+
